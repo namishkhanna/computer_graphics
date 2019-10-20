@@ -1,1 +1,1 @@
-Different Types of Program on Computer Graphics.
+Different Types of Programs on Computer Graphics.
