@@ -1,5 +1,5 @@
 #include<iostream>
-#include<conio.h>
+#include<bits/stdc++.h> //for codeblocks
 #include<graphics.h>
 int main()
 {
