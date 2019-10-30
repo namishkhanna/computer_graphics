@@ -1,7 +1,7 @@
 #include<iostream>
 #include<conio.h>
 #include<graphics.h>
-#include<bits/stdc++.h>
+#include<bits/stdc++.h> //for codeblocks
 using namespace std;
 
 int main()
