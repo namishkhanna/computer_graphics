@@ -1,7 +1,5 @@
-#include<iostream>
-#include<conio.h>
-#include<graphics.h>
 #include<bits/stdc++.h>
+#include<graphics.h>
 using namespace std;
 
     int main()
@@ -31,3 +29,6 @@ using namespace std;
 
         getch();
     }
+
+
+
