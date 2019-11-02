@@ -1,6 +1,7 @@
 #include<iostream>
 #include<bits/stdc++.h> //for codeblocks
 #include<graphics.h>
+Using Namespace std;
 int main()
 {
 	int gd=DETECT,gm;
