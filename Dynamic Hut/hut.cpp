@@ -2,7 +2,7 @@
 #include<conio.h>
 #include<graphics.h>
 #include<bits/stdc++.h> //for codeblocks
-using namespace std;
+using namespace std; //for codeblocks
 
 int main()
 {
