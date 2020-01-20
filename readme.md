@@ -1,4 +1,4 @@
-# COMPUTER GRAPHICS :-
+# Computer Graphics :-
 
 Different Types of Programs on Computer Graphics.
 Graphic Packages ( graphics.h and libbgi.a ) must be installed on your System in order to perform the actions.
